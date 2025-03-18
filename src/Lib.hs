@@ -1,4 +1,4 @@
--- {-# LANGUAGE  Haskell2010 #-}
+{-# LANGUAGE  Haskell2010 #-}
 
 module Lib (
   someFunc,
